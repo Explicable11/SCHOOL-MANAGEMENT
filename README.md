@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox, simpledialog, ttk
 
-# --- Royal Color Palette ---
+# --- royal Color Palette ---
 ROYAL_BLUE = "#000080"      # Navy Blue
 ROYAL_PURPLE = "#800080"    # Purple
 GOLD_ACCENT = "#FFD700"     # Gold

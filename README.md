@@ -7,7 +7,7 @@ ROYAL_PURPLE = "#800080"    # Purple
 GOLD_ACCENT = "#FFD700"     # Gold
 LIGHT_GOLD = "#DAA520"      # Goldenrod (For lighter accents/text)
 WHITE = "#FFFFFF"           # White
-LIGHT_GREY = "#D3D3D3"      # Light Grey (for some backgrounds/borders)
+LIGHT_GREY = "#D3D3D3"      # Light Grey (For some backgrounds/borders)
 DARK_GREY = "#36454F"       # Charcoal (for text on light backgrounds)
 BLACK = "#000000"           # Black
 

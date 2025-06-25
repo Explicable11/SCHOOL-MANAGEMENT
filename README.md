@@ -5,7 +5,7 @@ from tkinter import messagebox, simpledialog, ttk
 ROYAL_BLUE = "#000080"      # Navy Blue
 ROYAL_PURPLE = "#800080"    # Purple
 GOLD_ACCENT = "#FFD700"     # Gold
-LIGHT_GOLD = "#DAA520"      # Goldenrod (for lighter accents/text)
+LIGHT_GOLD = "#DAA520"      # Goldenrod (For lighter accents/text)
 WHITE = "#FFFFFF"           # White
 LIGHT_GREY = "#D3D3D3"      # Light Grey (for some backgrounds/borders)
 DARK_GREY = "#36454F"       # Charcoal (for text on light backgrounds)
